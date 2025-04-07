@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hazem </h1>
+<h1 align="center">Hi 👋, I'm Hazem from Tunisia </h1>
 <h3 align="center">💡 Embedded Systems Engineer | IoT | Electrical Engineer | PCB Design</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hazemboukouba&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
 
 ---
 
@@ -52,7 +48,7 @@
 
 ---
 
-## 🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -65,7 +61,7 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazemboukouba&show_icons=true&theme=tokyonight" />
@@ -75,7 +71,7 @@
 
 ---
 
-## 🚀 Projects Highlights
+### 🚀 Projects Highlights
 
 - 🅿️ **Smart Parking System** – ESP8266, IR, Servo, MQTT, LCD
 - 🌡️ **Weather Station** – ESP8266, LM335, Node-RED, HiveMQ
@@ -85,7 +81,7 @@
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/boukouba-hazem"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
