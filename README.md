@@ -38,7 +38,7 @@
 ![FPGA](https://img.shields.io/badge/-FPGA-3E4EB8?style=flat)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-FFB400?style=flat)
 ![Proteus](https://img.shields.io/badge/-Proteus%20(ISIS)-1A237E?style=flat)
-![Keil](https://img.shields.io/badge/-Keil-uVision-blue)
+![Keil](https://img.shields.io/badge/Keil-uVision-blue)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-007ACC?style=flat)
 
 ### Communication:
