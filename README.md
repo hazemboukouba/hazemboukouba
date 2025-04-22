@@ -74,9 +74,9 @@
 
 ### 🚀 Projects Highlights
 
-- 🅿️ **Smart Parking System** – ESP8266, IR, Servo, MQTT, LCD
-- 🌡️ **Weather Station** – ESP8266, LM335, Node-RED, HiveMQ
 - 📡 **Radar Detection** – STM32 + Servo + Tkinter-python
+- 🚧 **Smart Barrier** – ESP8266, HC_SR04, Servo, MQTT, LCD
+- 🌡️ **Temperature Monitoring** – ESP8266, LM335, LCD
 - 🛰️ **Tracking System** – GPS + ESP8266
 - 🖼️ **Object Detection** – OpenCV + Python
 
